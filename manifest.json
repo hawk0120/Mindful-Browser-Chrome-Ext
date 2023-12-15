@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "Mindful Browser",
+    "version": "1.0",
+    "description": "Encourage users to take breaks and practice mindfulness during browsing.",
+    "permissions": ["alarms"],
+    "icons": {
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+    },
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    }
+  }
+  
