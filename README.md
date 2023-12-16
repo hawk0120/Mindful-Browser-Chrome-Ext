@@ -1,7 +1,5 @@
 # Mindful Browsing Chrome Extension
 
-![Mindful Browsing Extension](images/icon128.png)
-
 ## Overview
 
 The Mindful Browsing Chrome Extension encourages users to take short breaks and practice mindfulness exercises during extended browsing sessions. A notification is displayed every 30 minutes, prompting users to pause and engage in a mindful activity.
